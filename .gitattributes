@@ -1,3 +1,5 @@
 *.cs     text diff=csharp
 *.csproj text
 *.sln    text
+.gitattributes text
+.gitignore text
